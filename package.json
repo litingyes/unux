@@ -1,0 +1,25 @@
+{
+  "name": "@unux/monorepo",
+  "type": "module",
+  "version": "0.0.0",
+  "packageManager": "pnpm@10.7.0",
+  "description": "Focus on the optimal solution for Web design / development",
+  "author": "litingyes <luz.liting@gmail.com> (https://litingyes.top/)",
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "ui",
+    "ui-components",
+    "unux",
+    "vue"
+  ],
+  "devDependencies": {
+    "@antfu/eslint-config": "^4.11.0",
+    "@eslint-react/eslint-plugin": "^1.37.3",
+    "eslint": "^9.23.0",
+    "eslint-plugin-format": "^1.0.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.19"
+  }
+}
